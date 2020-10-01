@@ -1,5 +1,6 @@
 # ddos-script
-All  things to do after installing Kali Linux and Add more awesome hacking tools to your Kali Linux system
+All  things to do after installing Kali Linux.
+Add more awesome hacking tools to your Kali Linux system.
 
 Change log v5.0.2:
 + add Nvidia GPU driver
